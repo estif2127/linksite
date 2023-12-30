@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Data stored as a single string, each pair separated by a newline
     const rawData = `Alice:https://example.com/alice
-Name:Links
 Pestily:https://www.twitch.tv/pestily
 RTAinJapan:https://www.twitch.tv/rtainjapan
 k4sen:https://www.twitch.tv/k4sen
